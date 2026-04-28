@@ -4,7 +4,7 @@ DoS: is an attack where a single source overwhelms a system (server, API, networ
 
  
 
-DDoS Distributed Denial of Service attack: 
+**DDoS Distributed Denial of Service attack: **
 a group of malicious nodes floods a server with so many requests that it can't handle them all. (botnets, compromised devices, cloud instances). 
 
 This overload makes the server inaccessible for genuine users trying to access it normally.  
